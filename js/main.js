@@ -68,7 +68,7 @@ async function getWeather() {
   // 自作ライブラリで取得した値を日本語に変換
   const weather = codeToText(code);
   //DOMに表示する
-  document.getElementById("temp").textContent =`${weather} / 気温${temp}℃ / 風速:${wind} km/h`;
+  document.getElementById("temp").textContent =`${weather} / 気温${temp}℃ /   風速:${wind} km/h`;
   //デバッグ用：返ってきた全データをコンソールで確認
   console.log(data);
 }
