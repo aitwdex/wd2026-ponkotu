@@ -9,3 +9,12 @@ h1 {
   color: #333333;
 }
 
+.box{
+    background-color:white;
+    border-radius:20px;
+    width: 600px;
+    padding: 20px;
+    border: 1px solid white;
+    display: block;
+    margin: 0 auto;
+}
