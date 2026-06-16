@@ -19,6 +19,10 @@ h1 {
     display: block;
     margin: 0 auto;
 }
+
+select{
+   margin: 10rem;
+}
 /* 通常（広い画面向け）：横並び */
 .container { display: flex; gap: 1rem; }
 .card { flex: 1; }                 /* 固定pxにせず、伸び縮みさせる */
