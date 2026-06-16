@@ -10,7 +10,10 @@ h1 {
   color: #333333;
   text-align: center;
 }
-
+.text{
+  color: #C0C0C0;
+  text-align: center;
+}
 .box{
     background-color:white;
     border-radius:20px;
