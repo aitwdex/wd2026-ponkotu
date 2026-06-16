@@ -18,3 +18,7 @@ h1 {
     display: block;
     margin: 0 auto;
 }
+
+select{
+  margin: 20px auto;
+}
