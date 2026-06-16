@@ -21,7 +21,7 @@ h1 {
 }
 
 select{
-   margin: 10rem auto;
+   margin: 10px;
 }
 /* 通常（広い画面向け）：横並び */
 .container { display: flex; gap: 1rem; }
